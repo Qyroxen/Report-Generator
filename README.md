@@ -23,12 +23,12 @@ Every developer needs report generator — but existing tools are either too com
 
 ## Features
 
-- **Multiple data sources** — Multiple data sources
-- **Template-based generation** — Template-based generation
-- **Chart and graph support** — Chart and graph support
-- **Export to PDF/HTML** — Export to PDF/HTML
-- **Scheduled reports** — Scheduled reports
-- **CLI interface** — CLI interface
+- Multiple data sources
+- Template-based generation
+- Chart and graph support
+- Export to PDF/HTML
+- Scheduled reports
+- CLI interface
 
 ## Quick Start
 
