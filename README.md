@@ -7,7 +7,7 @@
 ![Lint](https://img.shields.io/badge/GolangCI--Lint-Passing-00ADD8?style=for-the-badge)
 ![Dependabot](https://img.shields.io/badge/Dependabot-Enabled-025E9C?style=for-the-badge&logo=dependabot&logoColor=white)
 
-> Report-Generator - Open source tool by Qyroxen
+> Report-Generator - Open source tool by AetherCodeHQ
 
 `cli` `data` `golang` `open-source` `reports` `utilities`
 
@@ -30,7 +30,7 @@
 
 ### Install from source
 ```bash
-git clone https://github.com/Qyroxen/Report-Generator.git
+git clone https://github.com/AetherCodeHQ/Report-Generator.git
 cd Report-Generator
 go build -o Report-Generator .
 ```
@@ -95,7 +95,7 @@ go build -o Report-Generator .
 
 ```bash
 # Clone the repo
-git clone https://github.com/Qyroxen/Report-Generator.git
+git clone https://github.com/AetherCodeHQ/Report-Generator.git
 cd Report-Generator
 
 # Build
@@ -123,5 +123,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 <p align="center">
-  Built with ❤️ by <a href="https://github.com/Qyroxen">AetherCode</a> • <a href="https://github.com/AetherCode-Core">AetherCode-Core</a>
+  Built with ❤️ by <a href="https://github.com/AetherCodeHQ">AetherCode</a> • <a href="https://github.com/AetherCode-Core">AetherCode-Core</a>
 </p>
